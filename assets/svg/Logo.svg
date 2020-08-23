@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="213.098" height="117.199" viewBox="0 0 213.098 117.199">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.978" y1="0.02" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f29e4c"/>
+      <stop offset="0.145" stop-color="#efea5a"/>
+      <stop offset="0.251" stop-color="#f1c453"/>
+      <stop offset="0.489" stop-color="#b9e769"/>
+      <stop offset="0.651" stop-color="#f1c453"/>
+      <stop offset="0.805" stop-color="#efea5a"/>
+      <stop offset="1" stop-color="#83e377"/>
+    </linearGradient>
+  </defs>
+  <g id="Logo" transform="translate(813.207 -4430.263)">
+    <g id="New_Card_Design" data-name="New Card Design" transform="translate(-813.207 4465.895) rotate(-25)">
+      <rect id="Rectangle_74" data-name="Rectangle 74" width="60" height="90" rx="12" fill="url(#linear-gradient)"/>
+      <text id="_1" data-name="1" transform="translate(21 20)" fill="#fff" font-size="35" font-family="Roboto-Regular, Roboto" letter-spacing="0.012em"><tspan x="0" y="37">1</tspan></text>
+    </g>
+    <g id="New_Card_Design-2" data-name="New Card Design" transform="translate(-761.484 4438.613) rotate(-8)">
+      <rect id="Rectangle_74-2" data-name="Rectangle 74" width="60" height="90" rx="12" fill="url(#linear-gradient)"/>
+      <text id="_2" data-name="2" transform="translate(21 20)" fill="#fff" font-size="35" font-family="Roboto-Regular, Roboto" letter-spacing="0.012em"><tspan x="0" y="37">2</tspan></text>
+    </g>
+    <g id="New_Card_Design-3" data-name="New Card Design" transform="translate(-703.323 4430.405) rotate(13)">
+      <rect id="Rectangle_74-3" data-name="Rectangle 74" width="60" height="90" rx="12" transform="translate(0)" fill="url(#linear-gradient)"/>
+      <text id="_3" data-name="3" transform="translate(21 20)" fill="#fff" font-size="35" font-family="Roboto-Regular, Roboto" letter-spacing="0.012em"><tspan x="0" y="37">3</tspan></text>
+    </g>
+    <g id="New_Card_Design-4" data-name="New Card Design" transform="translate(-654.487 4440.101) rotate(25)">
+      <rect id="Rectangle_74-4" data-name="Rectangle 74" width="60" height="90" rx="12" fill="url(#linear-gradient)"/>
+      <text id="_4" data-name="4" transform="translate(21 20)" fill="#fff" font-size="35" font-family="Roboto-Regular, Roboto" letter-spacing="0.012em"><tspan x="0" y="37">4</tspan></text>
+    </g>
+  </g>
+</svg>
